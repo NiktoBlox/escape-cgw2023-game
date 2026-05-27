@@ -2,7 +2,7 @@
 NiktoBlox 原創開發
 ## [🕹️點我前往遊戲](https://niktoblox.github.io/escape-cgw2023-game/)
 ### 展示：
-<img width="855" height="655" alt="image" src="https://github.com/user-attachments/assets/d5fe518e-c4d3-45d6-b614-883ecf7df44b" />
+<img width="856" height="654" alt="image_2026-05-27_16-05-16" src="https://github.com/user-attachments/assets/e0f0f629-7037-40d9-a02a-83eefc4d38a8" />
 
 ## 更新日誌
 ### 2025/05/27
