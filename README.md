@@ -1,6 +1,5 @@
 # 逃離可怕的C兄 3D在線遊戲
-NiktoBlox 原創開發
-Google Antigravity 協助
+ By NiktoBlox 原創開發 • Google Antigravity 協助
 ## [🕹️點我前往遊戲](https://niktoblox.github.io/escape-cgw2023-game/)
 ### 展示：
 <img width="856" height="654" alt="image_2026-05-27_16-05-16" src="https://github.com/user-attachments/assets/e0f0f629-7037-40d9-a02a-83eefc4d38a8" />
